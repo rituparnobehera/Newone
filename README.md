@@ -9,7 +9,7 @@ This project is a **Spark-Scala** application.
 2. Remove duplicate/redundant records if any
 3. Here, our most important feature is **cookTime**, **prepTime** and **ingredients**. Hence, check for null/na values in these two field.
 4. Drop the row if any of the above two feature (**cookTime**, **prepTime**) is corrupt.
-5. Select only those columns which is required, Here we only need two columns **cookTime** and **prepTime**.
+5. Select only those columns which is required, Here we only need two columns **cookTime** , **prepTime** and **ingredients**.
 
 ### Pre-Processing the Data:
 1. Convert the ISO time format field (**cookTime**, **prepTime**) to durations in second.
