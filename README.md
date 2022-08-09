@@ -119,8 +119,8 @@ and open in a browser to see code documentation
 
 
 ### Code coverage and Structure:
-![alt text](https://github.com/hellofreshdevtests/rituparnobehera-data-engineering-test/blob/rituparno/image/code_structure.png?raw=true)
+![alt text](https://github.com/rituparnobehera/Newone/blob/master/image/code_structure.png?raw=true)
 
 ### A glimpse of scala documentaion
-![alt text](https://github.com/hellofreshdevtests/rituparnobehera-data-engineering-test/blob/rituparno/image/doc.png?raw=true)
+![alt text](https://github.com/rituparnobehera/Newone/blob/master/image/doc.png?raw=true)
 
